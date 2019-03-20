@@ -1,0 +1,20 @@
+body {
+  background-color: #76AFBA;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  padding-top: 150px;
+  color: #D44354;
+  font-family: cursive;
+  font-size: 300%
+}
+
+div {
+  display:flex;
+  justify-content: center;
+  color: #D44354;
+  font-family: cursive;
+  font-size: 200%
+}
